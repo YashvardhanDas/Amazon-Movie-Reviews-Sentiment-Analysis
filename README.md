@@ -1,5 +1,5 @@
 # Amazon-Movie-Reviews-Sentiment-Analysis
-Kaggle Competition - Develop a sentiment analysis classifier to accurately examine the associated views of customers with respect to Amazon hsoted movie ratings and reviews .
+Kaggle Competition - Develop a sentiment analysis classifier to accurately examine the associated views of customers with respect to Amazon-hosted movie ratings and reviews .
 
 File descriptions
 

@@ -12,14 +12,23 @@ test.csv - Contains a table with 300,000 unique reviews. The format of the table
 # Data fields
 
 ProductId - unique identifier for the product
+
 UserId - unique identifier for the user
+
 HelpfulnessNumerator - number of users who found the review helpful
+
 HelpfulnessDenominator - number of users who indicated whether they found the review helpful
+
 Score - rating between 1 and 5
+
 Time - timestamp for the review
+
 Summary - brief summary of the review
+
 Text - text of the review
+
 Id - a unique identifier associated with a review
+
 Note: Some of the rows of the table may have some of these values missing.
 
 # Dataset Citation
